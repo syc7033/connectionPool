@@ -1,0 +1,5 @@
+/home/syc/CommonConnectionPool/build/CMakeFiles/rebuild_cache.dir
+/home/syc/CommonConnectionPool/build/CMakeFiles/edit_cache.dir
+/home/syc/CommonConnectionPool/build/src/CMakeFiles/rebuild_cache.dir
+/home/syc/CommonConnectionPool/build/src/CMakeFiles/connPool.dir
+/home/syc/CommonConnectionPool/build/src/CMakeFiles/edit_cache.dir

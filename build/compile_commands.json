@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/syc/CommonConnectionPool/build/src",
+  "command": "/usr/bin/g++   -I/home/syc/CommonConnectionPool/include  -g -g   -o CMakeFiles/connPool.dir/commonConnectionPool.cpp.o -c /home/syc/CommonConnectionPool/src/commonConnectionPool.cpp",
+  "file": "/home/syc/CommonConnectionPool/src/commonConnectionPool.cpp"
+},
+{
+  "directory": "/home/syc/CommonConnectionPool/build/src",
+  "command": "/usr/bin/g++   -I/home/syc/CommonConnectionPool/include  -g -g   -o CMakeFiles/connPool.dir/connection.cpp.o -c /home/syc/CommonConnectionPool/src/connection.cpp",
+  "file": "/home/syc/CommonConnectionPool/src/connection.cpp"
+},
+{
+  "directory": "/home/syc/CommonConnectionPool/build/src",
+  "command": "/usr/bin/g++   -I/home/syc/CommonConnectionPool/include  -g -g   -o CMakeFiles/connPool.dir/main.cpp.o -c /home/syc/CommonConnectionPool/src/main.cpp",
+  "file": "/home/syc/CommonConnectionPool/src/main.cpp"
+}
+]
